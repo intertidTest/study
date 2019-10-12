@@ -60,7 +60,7 @@ class LoginTest(unittest.TestCase):
         login_page.button_click()'''
     @ddt.data(*dicDatas)
     def test_login(self, dicData ):
-        print(3)
+        print(322)
         log=Log()
         #i=0
         #j=len(dicData)
