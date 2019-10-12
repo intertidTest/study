@@ -1,0 +1,12 @@
+2019-10-12 09:49:09,436 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 1.0 ; 测试点-> name_empty
+2019-10-12 09:49:14,578 -[ logger.py|__console] - INFO - 检查点->邮箱/用户名/手机不能为空
+2019-10-12 09:49:14,709 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 2.0 ; 测试点-> name_error
+2019-10-12 09:49:18,676 -[ logger.py|__console] - INFO - 检查点->密码错误，请重试！
+2019-10-12 09:49:19,048 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 3.0 ; 测试点-> pwd_error
+2019-10-12 09:49:23,022 -[ logger.py|__console] - INFO - 检查点->密码错误，请重试！
+2019-10-12 09:49:23,370 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 4.0 ; 测试点-> pwd_empty
+2019-10-12 09:49:27,315 -[ logger.py|__console] - INFO - 检查点->密码不能为空
+2019-10-12 09:49:27,427 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 5.0 ; 测试点-> name_pwd_empty
+2019-10-12 09:49:31,285 -[ logger.py|__console] - INFO - 检查点1->邮箱/用户名/手机不能为空,检查点2->密码不能为空
+2019-10-12 09:49:31,412 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 6.0 ; 测试点-> login_success
+2019-10-12 09:49:35,345 -[ logger.py|__console] - INFO - 检查点->admin

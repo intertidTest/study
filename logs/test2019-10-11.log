@@ -1,0 +1,68 @@
+2019-10-11 11:04:01,818 -[ logger.py|__console] - ERROR - 11error
+2019-10-11 11:04:01,818 -[ logger.py|__console] - ERROR - 12error
+2019-10-11 11:04:01,818 -[ logger.py|__console] - ERROR - 12error
+2019-10-11 11:04:01,819 -[ logger.py|__console] - INFO - 11info
+2019-10-11 11:04:01,819 -[ logger.py|__console] - INFO - 11info
+2019-10-11 11:04:01,819 -[ logger.py|__console] - INFO - 11info
+2019-10-11 14:31:40,628 -[ logger.py|__console] - ERROR - 驱动异常Message: permission denied
+
+2019-10-11 14:43:32,040 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 1.0 ; 测试点-> name_empty
+2019-10-11 14:43:36,833 -[ logger.py|__console] - INFO - 检查点->邮箱/用户名/手机不能为空
+2019-10-11 14:43:46,557 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 2.0 ; 测试点-> name_error
+2019-10-11 14:43:51,401 -[ logger.py|__console] - INFO - 检查点->密码错误，请重试！
+2019-10-11 14:44:01,808 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 3.0 ; 测试点-> pwd_error
+2019-10-11 14:44:06,277 -[ logger.py|__console] - INFO - 检查点->密码错误，请重试！
+2019-10-11 14:44:16,548 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 4.0 ; 测试点-> pwd_empty
+2019-10-11 14:44:21,149 -[ logger.py|__console] - INFO - 检查点->密码不能为空
+2019-10-11 14:44:30,887 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 5.0 ; 测试点-> name_pwd_empty
+2019-10-11 14:44:35,450 -[ logger.py|__console] - INFO - 检查点1->邮箱/用户名/手机不能为空,检查点2->密码不能为空
+2019-10-11 14:44:45,356 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 6.0 ; 测试点-> login_success
+2019-10-11 14:44:49,841 -[ logger.py|__console] - INFO - 检查点->admin
+2019-10-11 14:47:03,681 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 1.0 ; 测试点-> name_empty
+2019-10-11 14:47:08,106 -[ logger.py|__console] - INFO - 检查点->邮箱/用户名/手机不能为空
+2019-10-11 14:47:08,203 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 2.0 ; 测试点-> name_error
+2019-10-11 14:47:12,153 -[ logger.py|__console] - INFO - 检查点->密码错误，请重试！
+2019-10-11 14:47:12,496 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 3.0 ; 测试点-> pwd_error
+2019-10-11 14:47:16,431 -[ logger.py|__console] - INFO - 检查点->密码错误，请重试！
+2019-10-11 14:47:16,775 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 4.0 ; 测试点-> pwd_empty
+2019-10-11 14:47:20,758 -[ logger.py|__console] - INFO - 检查点->密码不能为空
+2019-10-11 14:47:20,852 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 5.0 ; 测试点-> name_pwd_empty
+2019-10-11 14:47:24,743 -[ logger.py|__console] - INFO - 检查点1->邮箱/用户名/手机不能为空,检查点2->密码不能为空
+2019-10-11 14:47:24,873 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 6.0 ; 测试点-> login_success
+2019-10-11 14:47:28,799 -[ logger.py|__console] - INFO - 检查点->admin
+2019-10-11 15:02:19,898 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 1.0 ; 测试点-> name_empty
+2019-10-11 15:02:25,024 -[ logger.py|__console] - INFO - 检查点->邮箱/用户名/手机不能为空
+2019-10-11 15:02:25,145 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 2.0 ; 测试点-> name_error
+2019-10-11 15:02:29,163 -[ logger.py|__console] - INFO - 检查点->密码错误，请重试！
+2019-10-11 15:02:29,508 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 3.0 ; 测试点-> pwd_error
+2019-10-11 15:02:33,509 -[ logger.py|__console] - INFO - 检查点->密码错误，请重试！
+2019-10-11 15:02:33,852 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 4.0 ; 测试点-> pwd_empty
+2019-10-11 15:02:37,794 -[ logger.py|__console] - INFO - 检查点->密码不能为空
+2019-10-11 15:02:37,888 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 5.0 ; 测试点-> name_pwd_empty
+2019-10-11 15:02:41,797 -[ logger.py|__console] - INFO - 检查点1->邮箱/用户名/手机不能为空,检查点2->密码不能为空
+2019-10-11 15:02:41,945 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 6.0 ; 测试点-> login_success
+2019-10-11 15:02:45,866 -[ logger.py|__console] - INFO - 检查点->admin
+2019-10-11 15:07:26,940 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 1.0 ; 测试点-> name_empty
+2019-10-11 15:07:31,362 -[ logger.py|__console] - INFO - 检查点->邮箱/用户名/手机不能为空
+2019-10-11 15:07:31,500 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 2.0 ; 测试点-> name_error
+2019-10-11 15:07:35,490 -[ logger.py|__console] - INFO - 检查点->密码错误，请重试！
+2019-10-11 15:07:35,873 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 3.0 ; 测试点-> pwd_error
+2019-10-11 15:07:39,848 -[ logger.py|__console] - INFO - 检查点->密码错误，请重试！
+2019-10-11 15:07:40,194 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 4.0 ; 测试点-> pwd_empty
+2019-10-11 15:07:44,149 -[ logger.py|__console] - INFO - 检查点->密码不能为空
+2019-10-11 15:07:44,245 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 5.0 ; 测试点-> name_pwd_empty
+2019-10-11 15:07:48,098 -[ logger.py|__console] - INFO - 检查点1->邮箱/用户名/手机不能为空,检查点2->密码不能为空
+2019-10-11 15:07:48,228 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 6.0 ; 测试点-> login_success
+2019-10-11 15:07:52,148 -[ logger.py|__console] - INFO - 检查点->admin
+2019-10-11 16:57:33,099 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 1.0 ; 测试点-> name_empty
+2019-10-11 16:57:37,922 -[ logger.py|__console] - INFO - 检查点->邮箱/用户名/手机不能为空
+2019-10-11 16:57:38,020 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 2.0 ; 测试点-> name_error
+2019-10-11 16:57:41,992 -[ logger.py|__console] - INFO - 检查点->密码错误，请重试！
+2019-10-11 16:57:42,334 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 3.0 ; 测试点-> pwd_error
+2019-10-11 16:57:46,313 -[ logger.py|__console] - INFO - 检查点->密码错误，请重试！
+2019-10-11 16:57:46,652 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 4.0 ; 测试点-> pwd_empty
+2019-10-11 16:57:50,577 -[ logger.py|__console] - INFO - 检查点->密码不能为空
+2019-10-11 16:57:50,673 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 5.0 ; 测试点-> name_pwd_empty
+2019-10-11 16:57:54,512 -[ logger.py|__console] - INFO - 检查点1->邮箱/用户名/手机不能为空,检查点2->密码不能为空
+2019-10-11 16:57:54,638 -[ logger.py|__console] - INFO - 当前执行测试用例ID-> 6.0 ; 测试点-> login_success
+2019-10-11 16:57:58,476 -[ logger.py|__console] - INFO - 检查点->admin
